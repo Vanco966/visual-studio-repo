@@ -1,2 +1,3 @@
 promqna repo1
+promqna ot github
 
